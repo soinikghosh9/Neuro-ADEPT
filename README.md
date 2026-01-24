@@ -10,6 +10,9 @@ This repository contains the official PyTorch implementation and the manuscript 
 
 ---
 
+![fig1_pages-to-jpg-0001](https://github.com/user-attachments/assets/4f8dee7e-52b8-4c81-97a8-721cdedf2053)
+
+
 ## 📋 Overview
 
 Unlike conventional black-box classifiers that struggle with the extreme class imbalance of seizure data (often <1% prevalence), **Neuro-ADEPT** reframes the problem as **anomaly detection**. It learns a rich representation of "normal" brain dynamics and detects seizures as pathological deviations.
