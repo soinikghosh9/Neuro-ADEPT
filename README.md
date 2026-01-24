@@ -10,7 +10,8 @@ This repository contains the official PyTorch implementation and the manuscript 
 
 ---
 
-![fig1_pages-to-jpg-0001](https://github.com/user-attachments/assets/4f8dee7e-52b8-4c81-97a8-721cdedf2053)
+![fig1_page-0001](https://github.com/user-attachments/assets/1ef7f1c2-a37c-415d-8dfa-61a677782e1b)
+
 
 
 ## 📋 Overview
