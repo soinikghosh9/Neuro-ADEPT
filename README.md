@@ -137,6 +137,10 @@ Neuro-ADEPT/
 
 ## 📊 Results & Performance
 
+
+<img width="1588" height="982" alt="Screenshot 2026-01-25 142745" src="https://github.com/user-attachments/assets/56dbd593-f16e-41a8-913e-7363a0d8702e" />
+
+
 | Metric | CHB-MIT | SIENA |
 |:---|:---:|:---:|
 | **AUROC** | 0.72 ± 0.08 | 0.69 ± 0.07 |
@@ -159,6 +163,8 @@ If you use this code in your research, please cite:
   year={2026}
 }
 ```
+For any quaries contact: soinikghosh.rs.bme23@itbhu.ac.in
+
 
 ## 📄 License
 
