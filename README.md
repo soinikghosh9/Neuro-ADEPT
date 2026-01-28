@@ -138,7 +138,8 @@ Neuro-ADEPT/
 ## 📊 Results & Performance
 
 
-<img width="1588" height="982" alt="Screenshot 2026-01-25 142745" src="https://github.com/user-attachments/assets/56dbd593-f16e-41a8-913e-7363a0d8702e" />
+
+<img width="1167" height="705" alt="Screenshot 2026-01-28 145354" src="https://github.com/user-attachments/assets/5ba53b71-803a-4f60-8585-6bf725674dba" />
 
 
 | Metric | CHB-MIT | SIENA |
